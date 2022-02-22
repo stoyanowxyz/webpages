@@ -1,0 +1,100 @@
+#discord{
+    position: fixed;
+  top: 350px;
+  left: 900px;
+}
+
+#softuni{
+    position: fixed;
+  top: 760px;
+  left: 1700px;
+}
+
+#github{
+    position: fixed;
+  top: 400px;
+  left: 900px;
+}
+
+#instagram{
+    position: fixed;
+    top: 450px;
+    left: 900px; 
+}
+
+#bmo{
+    position: fixed;
+    top: 250px;
+    right: 1100px; 
+}
+   h2{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+   }
+   #button{
+    background-color: #FF0068; 
+    border: none;
+    color: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: weight;
+    display: inline-block;
+    font-size: 16px;
+  }
+  #student{
+    font-family: 'Inter', sans-serif;
+font-family: 'Libre Baskerville', serif;
+    color: white;
+    display: block;
+    left: 800px;
+  position:fixed;
+  }
+  #discordWizard{
+    position: fixed;
+  top: 100px;
+  left: 900px;
+  }
+  #discordTag{
+    font-family: 'Inter', sans-serif;
+font-family: 'Libre Baskerville', serif;
+    color: white;
+    display: block;
+    top: 340px;
+    left: 950px;
+  position:fixed;
+  }
+  #openhub{
+    font-family: 'Inter', sans-serif;
+font-family: 'Libre Baskerville', serif;
+    color: white;
+    display: block;
+    top: 390px;
+    left: 950px;
+  position:fixed;
+  }
+  #openig{
+    font-family: 'Inter', sans-serif;
+font-family: 'Libre Baskerville', serif;
+    color: white;
+    display: block;
+    top: 440px;
+    left: 950px;
+  position:fixed;
+  }
+  #stats{
+    position:fixed;
+    top: 780px;
+  }
+  #welcome{
+    color:white;
+  }
+  #welcomer{
+    color: white;
+  }
+   }
+}
